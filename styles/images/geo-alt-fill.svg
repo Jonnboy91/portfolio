@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="26px" viewBox="0 0 19 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>geo-alt-fill</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="geo-alt-fill" transform="translate(-402.000000, -2509.000000)" filter="url(#filter-1)">
+            <g transform="translate(402.000000, 2509.000000)">
+                <path d="M9.5,26 C9.5,26 19,16.7602499 19,9.74999985 C19,4.3652236 14.7467051,0 9.5,0 C4.25329493,0 0,4.3652236 0,9.74999985 C0,16.7602499 9.5,26 9.5,26 Z M9.5,14.6249999 C6.87664744,14.6249999 4.75,12.442388 4.75,9.74999985 C4.75,7.0576117 6.87664744,4.87499985 9.5,4.87499985 C12.1233526,4.87499985 14.25,7.0576117 14.25,9.74999985 C14.25,12.442388 12.1233526,14.6249999 9.5,14.6249999 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

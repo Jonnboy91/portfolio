@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="19px" viewBox="0 0 26 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>envelope-fill</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="envelope-fill" transform="translate(-402.000000, -2628.000000)" filter="url(#filter-1)">
+            <g transform="translate(402.000000, 2628.000000)">
+                <path d="M0.08125,2.46208295 C0.418650526,1.0215961 1.73359313,0 3.25,0 L22.75,0 C24.2664069,0 25.5813495,1.0215961 25.91875,2.46208295 L13,10.1554984 L0.08125,2.46208295 Z M0,4.27024934 L0,15.5182476 L9.429875,9.88474848 L0,4.27024934 Z M10.986625,10.814165 L0.310375,17.1902474 C0.848802323,18.2964737 1.99345939,19.00117 3.25,18.9999985 L22.75,18.9999985 C24.0063252,19.0002679 25.1502928,18.29499 25.688,17.188664 L15.01175,10.8125817 L13,12.0111648 L10.986625,10.8125817 L10.986625,10.814165 Z M16.570125,9.88633181 L26,15.5182476 L26,4.27024934 L16.570125,9.88474848 L16.570125,9.88633181 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
